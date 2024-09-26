@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV4k.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="General",CCTV-4K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://i0.hdslb.com/bfs/archive/a0058b6bd84f1135a8fd7a10caa6224b41fa438d.jpg" group-title="General",CNA 亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://img0.baidu.com/it/u=3210853476,3561785709&fm=253&fmt=auto&app=138&f=PNG?w=350&h=220" group-title="General",WildEarth
